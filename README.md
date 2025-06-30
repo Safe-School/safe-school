@@ -10,17 +10,20 @@ Abaixo está um guia simples para clonar este repositório e começar a desenvol
 
 ### 📥 Clonar o repositório
 
-```bash
-git clone https://github.com/seu-usuario/safe-school.git
-cd safe-school
+---
+🌿 Criar sua própria branch
+Antes de fazer modificações, crie uma branch com seu nome ou com a funcionalidade que vai desenvolver:
+```
+git checkout -b nome-da-sua-branch
+```
 
 📚 Sobre o Projeto
 O SafeSchool é uma ferramenta interativa voltada ao ensino do Sistema Neuroendócrino, parte fundamental da biologia humana. Com o uso de recursos digitais, o projeto visa facilitar o entendimento de como os sistemas nervoso e endócrino interagem no corpo humano, por meio de:
 
-Interfaces amigáveis
+- Interfaces amigáveis
 
-Conteúdo multimídia
+- Conteúdo multimídia
 
-Navegação intuitiva
+- Navegação intuitiva
 
-Abordagem didática voltada para alunos do ensino médio
+- Abordagem didática voltada para alunos do ensino médio
