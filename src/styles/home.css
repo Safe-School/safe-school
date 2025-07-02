@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=McLaren&display=swap');
+
+*{
+   font-family: "McLaren", sans-serif;
+}
+
 body {
   margin: 0;
   padding: 0;
@@ -8,5 +14,24 @@ body {
   flex-direction: column;
   overflow: hidden;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/** ---------------- HEADER ---------------------- */
+
+.safe-title {
+  letter-spacing: 2px;
+  color: white;
+  margin: 0;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+}
+
+.safe-subtitle {
+  font-weight: 500 !important;
+  margin-top: 0.5rem;
+}
+
+.safe-author {
+  font-weight: 500 !important;
+  color: #333;
 }
 
